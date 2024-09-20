@@ -59,6 +59,6 @@ If you like this tutorial, please [give it a ⭐ star](https://github.com/virajd
 ## Licence 📜
 
 You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
-Copyright (c) 2020 Desai Viraj
+Copyright (c) 2024 Desai Viraj
 
 ------------
